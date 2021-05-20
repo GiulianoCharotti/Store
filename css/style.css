@@ -1,3 +1,13 @@
-
+/*Resizing the images on the carousel*/
+.carousel-inner .carousel-item {
+  width: 100%;
+  height: 500px;
+  /* example */
+}
+.carousel-inner .carousel-item img {
+  /*Tell image to fit to the width and height of the parent container*/
+  width: 100%;
+  height: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
